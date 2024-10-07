@@ -1,0 +1,5 @@
+#swaglab
+#Fri Aug 30 09:56:51 IST 2024
+password=secret_sauce
+url=https\://www.saucedemo.com/v1/
+username=standard_user
